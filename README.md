@@ -1,2 +1,0 @@
-# el-bob
-Probando GitHub
